@@ -2,20 +2,41 @@
 sidebar_label: "Server Features"
 sidebar_position: 3
 ---
-
 # Server Features
-
 ## Economy
 We use an emerald-based economy system. Emeralds are exchangeable for **Softcoins**, our server currency, at a rate of 1 emerald = 10 Softcoins.
 
-**Exchanging emeralds for Softcoins:**
-- `/exchange <amount>` — exchange a specific number of emeralds
-- `/exchange` — exchange all emeralds in your inventory at once
+You can check your balance with `/stats`.
 
-**Withdrawing Softcoins back to emeralds:**
-- `/withdraw <amount>` — converts Softcoins back to emeralds (must be in multiples of 10)
+## Daily Rewards & Quests
+Log in every day to build your streak and earn Softcoins. The longer your streak, the bigger the reward — and if you hit 7 days in a row, you'll earn an Enchanted Golden Apple on top of your coins.
 
-You can check your balance with `/bal` and pay other players with `/pay <player> <amount>`.
+### Daily Rewards
+Log in each day to continue your streak and claim your reward with `/daily claim`. Missing a day resets your streak back to Day 1.
+
+| Day | Reward |
+|-----|--------|
+| Day 1 | 10 Softcoins |
+| Day 2 | 20 Softcoins |
+| Day 3 | 30 Softcoins |
+| Day 4 | 40 Softcoins |
+| Day 5 | 50 Softcoins |
+| Day 6 | 75 Softcoins |
+| Day 7 | 100 Softcoins + Enchanted Golden Apple ✦ |
+
+### Daily Quests
+Each day you get 3 quests to complete for bonus Softcoins. Quests refresh every day and include things like killing mobs, mining blocks, catching fish, walking, placing blocks, and crafting items. Progress is saved automatically and carries over if you log out mid-quest.
+
+Quest progress bars appear at the top of your screen automatically when you log in. Completed quests turn green and rewards are paid out instantly.
+
+**Commands:**
+- `/daily` — view your streak and today's quests
+- `/daily claim` — claim your daily Softcoin reward
+- `/status` — detailed view of quest progress and streak
+- `/toggleui` — show or hide the quest progress bars on your screen
+
+## Player Stats
+You can view your own stats or another player's with `/stats [player]`. This shows playtime, deaths, mob kills, streak, and Softcoin balance.
 
 ## Auctioning
 Put items up for auction and let players bid against each other in real time. Auctions last **30 seconds**, with reminders at 15s, 10s and 5s remaining. A last-second bid extends the timer by 15 seconds.
