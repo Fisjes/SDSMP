@@ -33,7 +33,7 @@ Make sure the instance is using **Fabric** on **Minecraft 1.21.4** — it should
 ## 5. Join the Server
 Once you're in the main menu, go to **Multiplayer** and add our server address:
 ```
-play.masmp.nl
+play.sdsmp.tech
 ```
 Or for IPV6
 ```
