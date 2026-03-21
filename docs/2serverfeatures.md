@@ -81,3 +81,32 @@ Set personal home points with `/home set [name]` and teleport back anytime. Use 
 
 ## Proximity Voice Chat
 We have [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) set up, which lets you talk to players near you in-game via proximity chat. The closer you are, the louder they sound.
+
+## Cosmetics
+- **Wavey Capes** — makes capes wave and flow dynamically instead of being stiff
+- **Chat Heads** — shows a player's head icon next to their messages in chat
+- **Back Tools** — displays your held tools/weapons on your back visually
+- **More Cosmetics** — adds extra cosmetic options like hats, wings, and other visual flair
+
+## Food & Farming
+- **Farmer's Delight: Crate Delight** — addon for Farmer's Delight, adds more food and recipes
+- **Alcocraft** — adds alcoholic drinks and brewing mechanics
+
+## Furniture & Decoration
+- **Beautify Refabricated** — adds decorative blocks and building pieces
+- **Paladin's Furniture Mod** — large collection of placeable furniture items
+- **Jake's Build Tools** — extra building blocks and tools for more creative builds
+
+## Exploration & Adventure
+- **Tide 2** — fishing overhaul with new fish, gear, and fishing mechanics
+- **Hang Glider** — adds a craftable hang glider for gliding across the world
+
+## Utility & QoL
+- **Comforts** — adds sleeping bags and hammocks so you can skip the night without setting your spawn
+- **Traveler's Backpack** — feature-rich backpacks with built-in fluid tanks and tool slots
+
+## Mobs
+- **Copper Golem Mod** — brings back the copper golem from the 2021 mob vote
+
+## Misc
+- **Musical Instruments** — adds playable instruments like guitars, flutes, and more
